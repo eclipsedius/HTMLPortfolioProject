@@ -1,0 +1,25 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+.header {
+	text-align: center;
+}
+
+.header h1 {
+	color: purple;
+	font-size: 35px;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h3 {
+	text-decoration: underline;
+}
